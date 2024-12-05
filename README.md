@@ -1,4 +1,13 @@
-# Student template
+# COMP.SE.200-2024-2025-1
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/TroyeKizzz/COMP.SE.200-2024-2025-1/node.js.yml)
+[![Coverage Status](https://coveralls.io/repos/github/TroyeKizzz/COMP.SE.200-2024-2025-1/badge.svg?branch=main)](https://coveralls.io/github/TroyeKizzz/COMP.SE.200-2024-2025-1?branch=main)
+![GitHub top language](https://img.shields.io/github/languages/top/TroyeKizzz/COMP.SE.200-2024-2025-1)
+
+## Contributors
+
+- @TroyeKizzz - Sviatoslav Vasev
+- @Roblor15 - Roberto Lorenzon
 
 ## Purpose of this repository
 
