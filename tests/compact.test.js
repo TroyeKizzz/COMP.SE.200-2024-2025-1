@@ -1,7 +1,7 @@
 import { describe, expect, test } from "@jest/globals";
 import compact from "../src/compact";
 
-describe("compact", () => {
+describe("compact function", () => {
   const truthyValues = [
     ["T1", [1, 2, 3, 4, 5]],
     ["T2", ["h", "e", "l", "l", "o"]],

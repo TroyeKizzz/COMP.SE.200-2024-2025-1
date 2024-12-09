@@ -1,7 +1,7 @@
 import { describe, expect, test } from "@jest/globals";
 import filter from "../src/filter";
 
-describe("filter", () => {
+describe("filter function", () => {
   const arrayValues = [
     ["T1", [1, 2, 3, 4, 5], (a) => a > 3, [4, 5]],
     ["T2", [null, undefined], () => true, [null, undefined]],

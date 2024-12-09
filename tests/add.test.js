@@ -1,7 +1,7 @@
 import { describe, expect, test } from "@jest/globals";
 import add from "../src/add";
 
-describe("add", () => {
+describe("add function", () => {
   const validNumbers = [
     ["T1", -9007199254740991, -9007199254740991, -18014398509481982],
     ["T2", -9007199254740990, 0, -9007199254740990],
